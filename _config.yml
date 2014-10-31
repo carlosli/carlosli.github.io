@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+encoding:         utf-8
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Carlosli
+tagline:          '杂七杂八的铺子'
+description:      '杂七杂八的铺子'
+url:              http://carlosli.github.io
+baseurl:          /
+
+author:
+name:           'Carlos Li'
+url:            https://github.com/carlosli
+
+
+paginate:         5
+
+# Custom vars
+version:          0.1
+
+github:
+  repo:           https://github.com/carlosli/carlosli.github.io
